@@ -8,7 +8,7 @@
 
 #### Procesamiento y análisis de información textual aplicado a reseñas de productos de software de Amazon.
 
-* [Procesamiento y análisis de información textual]()
+* [Procesamiento y análisis de información textual](PRA1/PRA1.ipynb)
 
 >  
 >En esta práctica revisaremos y aplicaremos los conocimientos aprendidos en los módulos 1, 2 y 3. Concretamente trataremos 5 temas.
