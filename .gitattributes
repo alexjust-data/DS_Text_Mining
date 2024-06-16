@@ -1,0 +1,4 @@
+Modulo_6/NoteBook-Modul4-CaptionGeneration-es/features.pkl filter=lfs diff=lfs merge=lfs -text
+Modulo_6/NoteBook-PLA4[[:space:]]CaptionGeneration[[:space:]](es).zip filter=lfs diff=lfs merge=lfs -text
+Modulo_6/Notebook-Modul4-MachineTranslation-es.zip filter=lfs diff=lfs merge=lfs -text
+Modulo_6/Notebook-Modul4-MachineTranslation-es/model_ta_deu_en filter=lfs diff=lfs merge=lfs -text
